@@ -1,0 +1,2 @@
+# Wyznacznik
+Dawny program
